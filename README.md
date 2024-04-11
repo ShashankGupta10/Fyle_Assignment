@@ -2,7 +2,7 @@
 
 
 ## Live Link
-[Live Tax Calculator](https://example.com)
+[Live Tax Calculator](https://fyle-assignment-shashank.vercel.app/)
 
 ## Test Cases
 1. **Scenario 1:**
@@ -37,12 +37,12 @@
 ## How to Run Locally
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/yourusername/tax-calculator.git
+   git clone https://github.com/ShashankGupta10/Fyle_Assignment.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd tax-calculator
+   cd Fyle_Assignment
    ```
 
 3. Open the project in your preferred code editor.
@@ -50,4 +50,4 @@
 5. Test the application locally with different input values to ensure accurate tax calculations.
 6. You can suggest changes by raising an issue on the repository.
 
-Feel free to add more test cases or improve the application as needed! If you encounter any issues or have suggestions, please don't hesitate to reach out to us.
+Feel free to add more test cases or improve the application as needed! If you encounter any issues or have suggestions, please don't hesitate to reach out to me!.
