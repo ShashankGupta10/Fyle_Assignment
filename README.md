@@ -12,6 +12,11 @@
    - Deductions: ₹0
    - Expected Tax: ₹0
 
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/5a580bc6-00bc-44d5-bc28-d4b6ca471aea" alt="Image 1" style="width: 50%;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/19e169bc-8dfa-41ac-bd9f-20f8da2cf48b" alt="Image 2" style="width: 50%;">
+</div>
+
 2. **Scenario 2:**
    - Age: 45
    - Gross Income: ₹1,200,000
