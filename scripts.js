@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Function to check if value is numeric
   function isNumeric(value) {
     return (
-      !isNaN(parseFloat(value)) && isFinite(value) && parseFloat(value) > 0
+      !isNaN(parseFloat(value)) && isFinite(value) && parseFloat(value) >= 0
     );
   }
 
@@ -153,6 +153,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
     console.log(overallIncome, tax);
-    return parseInt(overallIncome - tax);
+    return overallIncome - tax;
   }
 });
