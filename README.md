@@ -23,6 +23,10 @@
    - Extra Income: ₹200,000
    - Deductions: ₹100,000
    - Expected Tax: ₹1,50,000
+  <div style="display: flex; gap: 10px;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/c7c674d5-8ab3-46fe-b5c6-c924a86af35c" alt="Image 1" style="width: 50%;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/2e138853-80d2-4bdd-9364-8f181eb97af2" alt="Image 2" style="width: 50%;">
+</div>
 
 3. **Scenario 3:**
    - Age: 60
@@ -30,6 +34,10 @@
    - Extra Income: ₹500,000
    - Deductions: ₹150,000
    - Expected Tax: ₹1,55,000
+   <div style="display: flex; gap: 10px;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/cfdbda9f-4538-4c42-bfa7-99b60d9bcac1" alt="Image 1" style="width: 50%;">
+  <img src="https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/1771abe6-0ed0-45e7-84ba-5718b5c36672" alt="Image 2" style="width: 50%;">
+</div>
 
 4. **Scenario 4:**
    - Age: 60
@@ -37,6 +45,7 @@
    - Extra Income: ₹500,000
    - Deductions: ₹150,000
    - Expected Tax: Warning: `Please enter all positive numeric values`
+   ![image](https://github.com/ShashankGupta10/Fyle_Assignment/assets/117008526/daa4a845-e5df-4652-9a7f-1d99d2eec54c)
 
 
 ## How to Run Locally
